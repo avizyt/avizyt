@@ -16,6 +16,6 @@ jobs:
             - name: "📚  Hashnode Updater"
               uses: "varunsridharan/action-hashnode-blog@main"
               with:
-                  USERNAME: "avizyt" # Hashnode Username
+                  USERNAME: "Avizyt" # Hashnode Username
                   BLOG_URL: "avizyt.hashnode.dev" # Blog URL
                   COUNT: 4 # MAX Visisble
