@@ -41,6 +41,16 @@
 
 ![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
 
+# My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+# Medium Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center" style="color:yellow">Programming Languages</h2>
 
 <h3 align="center" style="color:yellow">Core Languages</h3>
@@ -105,5 +115,5 @@
 
 <div align="center">
 
-<img src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="400" alt="3d-cool-stat">
+<img align="center" src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="400" alt="3d-cool-stat">
 </div>
