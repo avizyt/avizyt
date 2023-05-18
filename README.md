@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Avijit Biswas </h1>
 
 <h3 align="center">A passionate ML/DL and React developer from India </h3>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width=100>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width=200>
 
 -   🔭 I’m currently working on **AI fullstack development**
 
@@ -113,7 +113,6 @@
   </a>
 </p
 
-<div align="center">
-
-<img align="center" src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="400" alt="3d-cool-stat">
-</div>
+<p align="center">
+<img align="center" src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="600" alt="3d-cool-stat">
+</p>
