@@ -1,5 +1,5 @@
 <div align="center">
-<img src="static/octocat-avijit.png" width=200>
+<img src=".github/images/octocat-avijit.png" width=200>
 </div>
 
 <h1 align="center">Hi 👋, I'm Avijit Biswas </h1>
