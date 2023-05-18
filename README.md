@@ -102,3 +102,8 @@
     <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,bash" />
   </a>
 </p
+
+<div align="center">
+
+<img src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="400" alt="3d-cool-stat">
+</div>
