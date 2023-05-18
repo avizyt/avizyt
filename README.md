@@ -1,6 +1,7 @@
 <div align="center">
-<img src=".github/images/octocat-avijit.png" width=200>
+<img src="https://github.com/avizyt/avizyt/assets/71291040/cf488984-c55e-43fe-a8b6-5ef119902abe" width=200>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Avijit Biswas </h1>
 
