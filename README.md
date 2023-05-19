@@ -42,6 +42,11 @@
 
 <a href="https://app.daily.dev/avijitdev"><img align="right" src="https://api.daily.dev/devcards/83f0d19e6d2847679d0560f505af81ad.png?r=omu" width="250" alt="Avijit Biswas's Dev Card"/></a>
 
+# Daily Dev Bookmarks 👇️
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
 # Hashnode Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
@@ -59,10 +64,6 @@
 -   [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
-# Daily Dev Bookmarks 👇️
-
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
 
 <h2 align="center" style="color:yellow">Programming Languages</h2>
 
