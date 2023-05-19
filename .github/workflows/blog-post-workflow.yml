@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "0 * * * *"
 jobs:
     update-readme-with-blog:
         name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                   max_post_count: "4"
-                  feed_list: "https://medium.com/feed/@Avizyt"
+                  feed_list: "https://medium.com/feed/@Avizyt ,https://avizyt.hashnode.dev/"
