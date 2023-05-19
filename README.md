@@ -35,7 +35,6 @@
 <div align="center">
 
 [![Avizyt's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avizyt&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avizyt&theme=radical&layout=compact)](https://github.com/avizyt/github-readme-stats)
 
 </div>
 
@@ -67,66 +66,41 @@
 
 <h2 align="center" style="color:yellow">Programming Languages</h2>
 
-<h3 align="center" style="color:yellow">Core Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-  </a>
-</p>
-
-<h3 align="center" style="color:yellow">Web Dev</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,tailwind,md" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,ts,tailwind,md&perline=3" />
   </a>
 </p>
 
 ![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
 
-<h2 align="center" style="color:yellow">Frontend Developer</h2>
+<h2 align="center" style="color:yellow">Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vercel,pytorch,tensorflow,flask&perline=3" />
   </a>
 </p>
 
 ![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
 
-<h2 align="center" style="color:yellow">ML/DL</h2>
+![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
+
+<h2 align="center" style="color:yellow">IDEs & DB</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,idea,mysql,postgres,mongo&perline=3" />
   </a>
 </p
 
 ![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
 
-<h2 align="center" style="color:yellow">Editors & IDEs</h2>
+![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
+
+<h2 align="center" style="color:yellow">DevOps & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,bash,figma&perline=3" />
   </a>
 </p
 
-![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
-
-<h2 align="center" style="color:yellow">Databases</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
-  </a>
-</p>
-
-![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
-
-<h2 align="center" style="color:yellow">DevOps</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,bash" />
-  </a>
-</p
-
-<div align="center">
-<img align="center" src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="600" alt="3d-cool-stat">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avizyt&theme=radical&layout=compact)](https://github.com/avizyt/github-readme-stats)
