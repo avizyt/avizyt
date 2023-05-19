@@ -44,8 +44,8 @@
 
 # Daily Dev Bookmarks 👇️
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 
 # Hashnode Blog Posts 👇
 
