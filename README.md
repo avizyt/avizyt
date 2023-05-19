@@ -41,19 +41,23 @@
 
 ![fading-line](https://github.com/avizyt/avizyt/assets/71291040/3e08e2e7-adaa-464f-a72c-fe051ce3950e)
 
+<a href="https://app.daily.dev/avijitdev"><img align="right" src="https://api.daily.dev/devcards/83f0d19e6d2847679d0560f505af81ad.png?r=omu" width="250" alt="Avijit Biswas's Dev Card"/></a>
+
 # My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-- [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
-- [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
-- [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
-- [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
+
+-   [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
+-   [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
+-   [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
+-   [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
 <!-- HASHNODE_BLOG:END -->
 
 # Medium Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
+
+-   [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center" style="color:yellow">Programming Languages</h2>
