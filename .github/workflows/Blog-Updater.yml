@@ -18,6 +18,6 @@ jobs:
               with:
                   USERNAME: "Avizyt" # Hashnode Username
                   BLOG_URL: "avizyt.hashnode.dev" # Blog URL
-                  COUNT: 4 # MAX Visisble
+                  COUNT: 10 # MAX Visisble
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
