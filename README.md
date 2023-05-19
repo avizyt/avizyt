@@ -19,7 +19,7 @@
 
 <p align='center'>
  
-  <a href="mailto:avijit.biswas27@outlook.com">
+  <a href="mailto:biswas.avijit23@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
   
@@ -46,16 +46,18 @@
 # My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-- [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
-- [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
-- [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
-- [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
+
+-   [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
+-   [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
+-   [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
+-   [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
 <!-- HASHNODE_BLOG:END -->
 
 # Medium Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
+
+-   [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center" style="color:yellow">Programming Languages</h2>
@@ -120,6 +122,6 @@
   </a>
 </p
 
-<p align="center">
+<div align="center">
 <img align="center" src="https://github.com/avizyt/avizyt/assets/71291040/17313449-fc11-49fb-b432-3253aa158718" width="600" alt="3d-cool-stat">
-</p>
+</div>
