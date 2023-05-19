@@ -49,6 +49,7 @@
 # Medium Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center" style="color:yellow">Programming Languages</h2>
