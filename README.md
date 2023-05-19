@@ -46,11 +46,10 @@
 # My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-
--   [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
--   [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
--   [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
--   [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
+- [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
+- [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
+- [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
+- [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
 <!-- HASHNODE_BLOG:END -->
 
 # Medium Blog
