@@ -53,11 +53,14 @@
 # Hashnode Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
-
--   [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
--   [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
--   [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
--   [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
+- [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
+- [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
+- [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
+- [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
+- [Make your code more readable using Pythonic Comprehension and Iterator.](avizyt.hashnode.dev/make-your-code-more-readable-using-pythonic-comprehension-and-iterator)
+- [Getting Started with OpenCV: A Hands-on Guide(Part-1)](avizyt.hashnode.dev/getting-started-with-opencv-a-hands-on-guidepart-1)
+- [Python Design Patterns for better Development(Decorator Pattern : 1)](avizyt.hashnode.dev/python-design-patterns-for-better-developmentdecorator-pattern-1)
+- [Project Development with Docker and VSCode Dev Containers](avizyt.hashnode.dev/project-development-with-docker-and-vscode-dev-containers)
 <!-- HASHNODE_BLOG:END -->
 
 # Medium Blog Posts 👇️
