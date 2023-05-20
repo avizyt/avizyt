@@ -45,6 +45,9 @@
 # Daily Dev Bookmarks 👇️
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Quanta Magazine](https://app.daily.dev/posts/mzna7jnL8?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [How to structure scalable Next.js project architecture](https://app.daily.dev/posts/sviVSVVX4?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [REST vs. gRPC - What’s the Difference?](https://app.daily.dev/posts/HkCaZh13I?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
 <!-- daily.dev BOOKMARKS:END -->
 
 # Hashnode Blog Posts 👇
