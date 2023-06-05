@@ -56,11 +56,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 - [Mastering the Basics of Python Tuples and Named Tuples](avizyt.hashnode.dev/mastering-the-basics-of-python-tuples-and-named-tuples)
+- [Say Goodbye to Background Noise: Exploring the Power of Real-Time Noise Cancellation in Linux.](avizyt.hashnode.dev/say-goodbye-to-background-noise-exploring-the-power-of-real-time-noise-cancellation-in-linux)
 - [Mastering Data Cleaning in Pandas: Cheat Sheet](avizyt.hashnode.dev/mastering-data-cleaning-in-pandas-cheat-sheet)
 - [Pandas Data Analysis CheatSheet](avizyt.hashnode.dev/pandas-data-analysis-cheatsheet)
 - [Customize your Linux Like a Pro](avizyt.hashnode.dev/customize-your-linux-like-a-pro)
 - [Make your code more readable using Pythonic Comprehension and Iterator.](avizyt.hashnode.dev/make-your-code-more-readable-using-pythonic-comprehension-and-iterator)
-- [Getting Started with OpenCV: A Hands-on Guide(Part-1)](avizyt.hashnode.dev/getting-started-with-opencv-a-hands-on-guidepart-1)
+- [RegEx in Python: Understanding and Implementing Regular Expressions](avizyt.hashnode.dev/regex-in-python-understanding-and-implementing-regular-expressions)
 - [Python Design Patterns for better Development(Decorator Pattern : 1)](avizyt.hashnode.dev/python-design-patterns-for-better-developmentdecorator-pattern-1)
 - [Project Development with Docker and VSCode Dev Containers](avizyt.hashnode.dev/project-development-with-docker-and-vscode-dev-containers)
 <!-- HASHNODE_BLOG:END -->
