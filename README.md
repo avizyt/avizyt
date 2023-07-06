@@ -69,6 +69,7 @@
 # Medium Blog Posts 👇️
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting with PostgreSQL #1](https://medium.com/@Avizyt/starting-with-postgresql-1-f416064cd12e?source=rss-528acc23acc5------2)
 - [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
