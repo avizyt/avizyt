@@ -69,10 +69,10 @@
 # Medium Blog Posts 👇️
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Essential JAX Techniques and Tricks for High-Performance Machine Learning](https://medium.com/@Avizyt/top-10-essential-jax-techniques-and-tricks-for-high-performance-machine-learning-0a0f6c9d18cc?source=rss-528acc23acc5------2)
 - [Exploring the Potential of LoRA Integration with Gemma Model: A Deep Dive](https://medium.com/@Avizyt/exploring-the-potential-of-lora-integration-with-gemma-model-a-deep-dive-8ac729256e86?source=rss-528acc23acc5------2)
 - [Understanding Generative Neural Networks with PyTorch: A Step-by-Step Guide](https://medium.com/@Avizyt/understanding-generative-neural-networks-with-pytorch-a-step-by-step-guide-164a314062e6?source=rss-528acc23acc5------2)
 - [Starting with PostgreSQL #1](https://medium.com/@Avizyt/starting-with-postgresql-1-f416064cd12e?source=rss-528acc23acc5------2)
-- [Design Pattern: Introduction to Python Iterator Pattern](https://medium.com/@Avizyt/design-pattern-introduction-to-python-iterator-pattern-f4b4470ac52d?source=rss-528acc23acc5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
