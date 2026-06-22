@@ -45,11 +45,11 @@
 # Daily Dev Bookmarks 👇️
 
 <!-- daily.dev BOOKMARKS:START -->
-- [Callback Refs in React](https://app.daily.dev/posts/paS1X7rMM?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
-- [Memoization in JavaScript](https://app.daily.dev/posts/VDQnUJMR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
-- [CSSBattle](https://app.daily.dev/posts/qHnvnSfKx?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
-- [UX: best practices for developers](https://app.daily.dev/posts/HQAYFexED?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
-- [Secret Messages Can Hide in AI-Generated Media](https://app.daily.dev/posts/mzna7jnL8?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [Callback Refs in React](https://daily.dev/posts/paS1X7rMM?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [Memoization in JavaScript](https://daily.dev/posts/VDQnUJMR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [CSSBattle](https://daily.dev/posts/qHnvnSfKx?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [UX: best practices for developers](https://daily.dev/posts/HQAYFexED?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
+- [Secret Messages Can Hide in AI-Generated Media](https://daily.dev/posts/mzna7jnL8?utm_source=rss&utm_medium=bookmarks&utm_campaign=oOXHiDO8fIbVQf7JvjBA7)
 <!-- daily.dev BOOKMARKS:END -->
 
 # Hashnode Blog Posts 👇
